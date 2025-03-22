@@ -1,0 +1,2 @@
+# MyOperatorsShift
+Operator >>
